@@ -1,0 +1,521 @@
+#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="TV Kombëtare",▬ TV Kombëtare ▬
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/16544
+#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.imgur.com/8uq8Tab.png" group-title="TV Kombëtare",INFO KABLLOR 📺👌
+https://i.top4top.io/m_2111zgb5t0.mp4
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="TV Kombëtare",Top Channel HD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4178
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="TV Kombëtare",Top Channel 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9457
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/vThbpXHx/VIP1.png" group-title="TV Kombëtare",Big Brother 1 HD 
+http://us.bestvideostreaming.is/8803/index.m3u8
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/bryjHbHy/VIP2.png" group-title="TV Kombëtare",Big Brother 2 HD 
+http://us.bestvideostreaming.is/8804/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="TV Kombëtare",Top News 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4209
+#EXTINF:-1 tvg-id="" tvg-name="Euronews HD AL" tvg-logo="https://picon-13398.kxcdn.com/euronews.jpg" group-title="TV Kombëtare",Euronews Albania
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/34755
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="TV Kombëtare",RTK 1 HD
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22814
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2 AL" tvg-logo="https://picon-13398.kxcdn.com/rtk2al.jpg" group-title="TV Kombëtare",RTK 2
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7061
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3 AL" tvg-logo="https://picon-13398.kxcdn.com/rtk3al.jpg" group-title="TV Kombëtare",RTK 3 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7036
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4 AL" tvg-logo="https://picon-13398.kxcdn.com/rtk4al.jpg" group-title="TV Kombëtare",RTK 4 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7037
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="TV Kombëtare",RTV 21
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3832
+#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="TV Kombëtare",KTV Kohavision 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9456
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="TV Kombëtare",Klan Kosova
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9455
+#EXTINF:-1 tvg-id="" tvg-name="T7 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/t7al.jpg" group-title="TV Kombëtare",T7 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/23108
+#EXTINF:-1 tvg-id="" tvg-name="Dukagjini FHD AL" tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg" group-title="TV Kombëtare",Dukagjini 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4236
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 10 AL" tvg-logo="https://picon-13398.kxcdn.com/kanal10alb.jpg" group-title="TV Kombëtare",Kanal 10
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/53152
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="TV Kombëtare",Klan 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9454
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="TV Kombëtare",Klan HD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3800
+#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanplusal.jpg" group-title="TV Kombëtare",Klan Plus 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7074
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="TV Kombëtare",Vizion Plus 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4214
+#EXTINF:-1 tvg-id="" tvg-name="First Channel Kosova AL" tvg-logo="https://picon-13398.kxcdn.com/firstchannel.jpg" group-title="TV Kombëtare",First Channel Kosova 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12044
+#EXTINF:-1 tvg-id="" tvg-name="arta TV HD AL" tvg-logo="https://picon-13398.kxcdn.com/artatval.jpg" group-title="TV Kombëtare",arta TV
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/21901
+#EXTINF:-1 tvg-id="" tvg-name="Koha TV HD AL" tvg-logo="https://picon-13398.kxcdn.com/kohatval.jpg" group-title="TV Kombëtare",Koha TV
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/19145
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip AL" tvg-logo="https://picon-13398.kxcdn.com/rtshshqipal.jpg" group-title="TV Kombëtare",RTSH 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/19478
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/rtsh1.jpg" group-title="TV Kombëtare",RTSH 1 HD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/15632
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 2 AL" tvg-logo="https://picon-13398.kxcdn.com/rtsh2al.jpg" group-title="TV Kombëtare",RTSH 2 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/19480
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 3 AL" tvg-logo="https://picon-13398.kxcdn.com/rtsh3al.jpg" group-title="TV Kombëtare",RTSH 3 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/20168
+#EXTINF:-1 tvg-id="" tvg-name="ABC News AL" tvg-logo="https://picon-13398.kxcdn.com/abcnews.jpg" group-title="TV Kombëtare",ABC News 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/6263
+#EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/news24.jpg" group-title="TV Kombëtare",News 24 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3795
+#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://picon-13398.kxcdn.com/oranews.jpg" group-title="TV Kombëtare",Ora News 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7066
+#EXTINF:-1 tvg-id="" tvg-name="TV Mitrovica AL" tvg-logo="https://picon-13398.kxcdn.com/tvmitrovica.jpg" group-title="TV Kombëtare",TV Mitrovica 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12037
+#EXTINF:-1 tvg-id="" tvg-name="TV Prizreni AL" tvg-logo="https://picon-13398.kxcdn.com/tvprizreni.jpg" group-title="TV Kombëtare",TV Prizreni 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/43387
+#EXTINF:-1 tvg-id="" tvg-name="Besa TV AL" tvg-logo="https://picon-13398.kxcdn.com/besatv.jpg" group-title="TV Kombëtare",Besa TV AL
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9395
+#EXTINF:-1 tvg-id="" tvg-name="RTV Zeri Kosoves HD AL" tvg-logo="https://picon-13398.kxcdn.com/rtvzerial.jpg" group-title="TV Kombëtare",RTV Zeri Kosoves
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/17183
+#EXTINF:-1 tvg-id="" tvg-name="RTV Fontana FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtvfontanaal.jpg" group-title="TV Kombëtare",RTV Fontana
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/24860
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/02TQ9swj/DRITA.png" group-title="TV Kombëtare",Drita TV
+https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/cJ46bc3B/al-kopliku-tv-5681.jpg" group-title="TV Kombëtare",TV Kopliku
+http://167.86.125.240:25461/live/kopliku/12/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/L5BpScKY/KORQA-PLUS.png" group-title="TV Kombëtare",Korqa Plus
+http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/JzTBmgM2/PREMIUM-CHANNEL.jpg" group-title="TV Kombëtare",Premium Channel 
+https://premiummedia.al/stream/premium-channel/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="Muzikë",---- MUZIKE PAKO ----
+http://line.uhd-ott.com:80/56AD4006/571DF7/311670
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/MGvqB3RN/TV-QIFTELI.png" group-title="Muzikë",TV Qifteli
+http://us.bestvideostreaming.is/8735/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X Çifteli HD AL" tvg-logo="https://picon-13398.kxcdn.com/ciftelial.jpg" group-title="Muzikë",X Çifteli
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22802
+#EXTINF:-1 tvg-id="" tvg-name="TV Sharri AL" tvg-logo="https://picon-13398.kxcdn.com/tvsharri.jpg" group-title="Muzikë",TV Sharri 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9368
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/ryWygHbL/TEUTA-TV.jpg" group-title="Muzikë",TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg" group-title="Muzikë",Dasma TV 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7076
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/htGBFZCv/MFM.png" group-title="Muzikë",MFM Muzike
+http://us.bestvideostreaming.is/7711/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/htvHZzj7/NRG.png" group-title="Muzikë",NRG Muzike
+https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w1502499338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/QCjzQVwC/HIT-MUSIC.png" group-title="Muzikë",HIT TV MUZIKE
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top Estrada AL" tvg-logo="https://picon-13398.kxcdn.com/topestrada.jpg" group-title="Muzikë",Top Estrada 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12046
+#EXTINF:-1 tvg-id="" tvg-name="Zico TV AL" tvg-logo="https://picon-13398.kxcdn.com/zicotval.jpg" group-title="Muzikë",Zico TV 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/23854
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova AL" tvg-logo="https://picon-13398.kxcdn.com/mtvkosova.jpg" group-title="Muzikë",MTV Kosova
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12051
+#EXTINF:-1 tvg-id="" tvg-name="X music hits HD AL" tvg-logo="https://picon-13398.kxcdn.com/xmusichitsal.jpg" group-title="Muzikë",X Music Hits
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22800
+#EXTINF:-1 tvg-id="" tvg-name="X popullore HD AL" tvg-logo="https://picon-13398.kxcdn.com/xpopularal.jpg" group-title="Muzikë",X Popullore 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22801
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja AL" tvg-logo="https://picon-13398.kxcdn.com/tvopoja.jpg" group-title="Muzikë",TV Opoja 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/16475
+#EXTINF:-1 tvg-id="" tvg-name="My Music AL" tvg-logo="https://picon-13398.kxcdn.com/mymusical.jpg" group-title="Muzikë",My Music
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7070
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://picon-13398.kxcdn.com/folkplus.jpg" group-title="Muzikë",Folk +
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/6260
+#EXTINF:-1 tvg-id="" tvg-name="BBF Music AL" tvg-logo="https://picon-13398.kxcdn.com/bbfmusic.jpg" group-title="Muzikë",BBF Music 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/6261
+#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV AL" tvg-logo="https://picon-13398.kxcdn.com/zjarrtv.jpg" group-title="Muzikë",Zjarr TV 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9372
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Muzike AL" tvg-logo="https://picon-13398.kxcdn.com/rtshmusical.jpg" group-title="Muzikë",RTSH Muzike
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/20172
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi Music AL" tvg-logo="https://picon-13398.kxcdn.com/elrodimusic.jpg" group-title="Muzikë",Elrodi Music 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4235
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="Humor",---- HUMOR PAKO ----
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/382000
+#EXTINF:-1 tvg-id="" tvg-name="X humor HD AL" tvg-logo="https://picon-13398.kxcdn.com/xhumoral.jpg" group-title="Humor ",X Humor 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22803
+#EXTINF:-1 tvg-id="" tvg-name="Q Stupcat AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Humor ",Q Stupcat 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/19545
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="Filma",---- FILMA PAKO ----
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3820001
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="Filma",AL: Film Aksion HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/49
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion AL" tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg" group-title="Filma",Film Aksion 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3820
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png" group-title="Filma",AL: Film Thriller HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/55
+#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller AL" tvg-logo="https://picon-13398.kxcdn.com/filmthriller.jpg" group-title="Filma",Film Thriller
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4193
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Një HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png" group-title="Filma",AL: Film Një HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/47
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png" group-title="Filma",AL: Film Dy HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/48
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png" group-title="Filma",AL: Film Hits HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/52
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png" group-title="Filma",AL: T HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/56
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 1 HD" tvg-logo="https://i.postimg.cc/fLydTbvD/ArtKino1.png" group-title="Filma",AL: Art Kino 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/129
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 2 HD" tvg-logo="https://i.postimg.cc/43BtgcVW/ArtKino2.png" group-title="Filma",AL: Art Kino 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/130
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 3 HD" tvg-logo="https://i.postimg.cc/wvrmtdWJ/ArtKino3.png" group-title="Filma",AL: Art Kino 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/131
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Gold 1 HD" tvg-logo="http://tivivo.al/logokanale/xgold1.png" group-title="Filma",AL: X Gold 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/87
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Gold 2 HD" tvg-logo="http://tivivo.al/logokanale/xgold2.png" group-title="Filma",AL: X Gold 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/88
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Gold 3 HD" tvg-logo="http://tivivo.al/logokanale/xgold3.png" group-title="Filma",AL: X Gold 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2201
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Gold 4 HD" tvg-logo="http://tivivo.al/logokanale/xgold4.png" group-title="Filma",AL: X Gold 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/89
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="Filma",TV PLISI HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106727
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="Filma",TV PLISI ACTION HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106724
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="Filma",TV PLISI THRILLER HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106722
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="Filma",TV PLISI COMEDY HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106723
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="Filma",TV PLISI FANTASY HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106721
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="Filma",TV PLISI HORROR HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106720
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTPREMUM1.png" group-title="Filma",FIRST PREMIUM 1 HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311692
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTACTION.png" group-title="Filma", FIRST ACTION HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/117363
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTTHRILLER.png" group-title="Filma",FIRST THRILLER HD 
+http://line.uhd-ott.com:80/56AD4006/571DF7/117367
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTHORROR.png" group-title="Filma", FIRST HORROR HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311694
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTCLASSIC.png" group-title="Filma", FIRST CLASSIC HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311693
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTFILMA24.png" group-title="Filma", FIRST FILMA 24 HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311695
+#EXTINF:-1 tvg-id="" tvg-name="AL: First Action HD" tvg-logo="https://tivivo.al/logokanale/firstaction.png" group-title="Filma",AL: First Action HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/94
+#EXTINF:-1 tvg-id="" tvg-name="AL: First Thriller HD" tvg-logo="https://tivivo.al/logokanale/firstthriller.png" group-title="Filma",AL: First Thriller HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/92
+#EXTINF:-1 tvg-id="" tvg-name="AL: Lugina Film HD" tvg-logo="https://tivivo.al/logokanale/luginafilm.png" group-title="Filma",AL: Lugina Film HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2682
+#EXTINF:-1 tvg-id="" tvg-name="AL: Lugina Prank HD" tvg-logo="https://tivivo.al/logokanale/luginaprank.png" group-title="Filma",AL: Lugina Prank HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2681
+#EXTINF:-1 tvg-id="" tvg-name="AL: Lugina Shqip HD" tvg-logo="https://tivivo.al/logokanale/luginashqip.png" group-title="Filma",AL: Lugina Shqip HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2679
+#EXTINF:-1 tvg-id="" tvg-name="AL: Lugina Serial HD" tvg-logo="https://tivivo.al/logokanale/luginaserial.png" group-title="Filma",AL: Lugina Serial HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/91
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 1 HD" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Milenium 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2200
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 2 HD" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Milenium 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2678
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 3 HD" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Milenium 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2202
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 4 HD" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Milenium 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2203
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Aksion Max HD" tvg-logo="https://tivivo.al/logokanale/kinemamax.png" group-title="Filma",AL: Kinema Aksion Max HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2194
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Max 1 HD" tvg-logo="https://tivivo.al/logokanale/kinemamax.png" group-title="Filma",AL: Kinema Max 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2199
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Max 2 HD" tvg-logo="https://tivivo.al/logokanale/kinemamax.png" group-title="Filma",AL: Kinema Max 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2198
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Station HD" tvg-logo="https://tivivo.al/logokanale/kinemastation.png" group-title="Filma",AL: Kinema Station HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2195
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Republika" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Republika
+http://restream.tivivo.cc:25461/irfan/irfan1234/2188
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Partizani" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Partizani
+http://restream.tivivo.cc:25461/irfan/irfan1234/2189
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema 17 Nëntori" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema 17 Nëntori
+http://restream.tivivo.cc:25461/irfan/irfan1234/2190
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Agimi" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Agimi
+http://restream.tivivo.cc:25461/irfan/irfan1234/2191
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Dajti" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Dajti
+http://restream.tivivo.cc:25461/irfan/irfan1234/2192
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Action HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png" group-title="Filma",AL: Tring Action HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/58
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png" group-title="Filma",AL: Tring Fantasy HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/60
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Super HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png" group-title="Filma",AL: Tring Super HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/65
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Jolly HD" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png" group-title="Filma",AL: Tring Jolly HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/67
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Shqip HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" group-title="Filma",AL: Tring Shqip HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/63
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premium 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%201%20HD.png" group-title="Filma",AL: X Premium 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/70
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premium 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%202%20HD.png" group-title="Filma",AL: X Premium 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/71
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premium 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%203%20HD.png" group-title="Filma",AL: X Premium 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/72
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Action HD" tvg-logo="https://tivivo.al/logokanale/xaction.png" group-title="Filma",AL: X Action HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/74
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Netflix 1 HD" tvg-logo="https://tivivo.al/logokanale/xromance.png" group-title="Filma",AL: Dark Netflix 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/79
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Netflix 2 HD" tvg-logo="https://tivivo.al/logokanale/sci-fi.png" group-title="Filma",AL: Dark Netflix 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/80
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Netflix 3 HD" tvg-logo="https://tivivo.al/logokanale/xthriller.png" group-title="Filma",AL: Dark Netflix 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/81
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Netflix 4 HD" tvg-logo="https://tivivo.al/logokanale/xwestern.png" group-title="Filma",AL: Dark Netflix 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/82
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Netflix 5 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%204%20HD.png" group-title="Filma",AL: Dark Netflix 5 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/93
+#EXTINF:-1 tvg-id="" tvg-name="AL: First Premium 1 HD" tvg-logo="https://tivivo.al/logokanale/firstpremium.png" group-title="Filma",AL: First Premium 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/73
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 1 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2176
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 2 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2177
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 3 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2178
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 4 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2179
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 5 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 5 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2180
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 6 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 6 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2181
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: Q Premium 1 HD" tvg-logo="https://tivivo.al/logokanale/qpremium1.png" group-title="Filma",AL: Q Premium 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2143
+#EXTINF:-1 tvg-id="" tvg-name="AL: Q Premium 2 HD" tvg-logo="https://tivivo.al/logokanale/qpremium2.png" group-title="Filma",AL: Q Premium 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2144
+#EXTINF:-1 tvg-id="" tvg-name="AL: Q Premium 3 HD" tvg-logo="https://tivivo.al/logokanale/qpremium3.png" group-title="Filma",AL: Q Premium 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2145
+#EXTINF:-1 tvg-id="" tvg-name="AL: Q Premium 4 HD" tvg-logo="https://tivivo.al/logokanale/qpremium4.png" group-title="Filma",AL: Q Premium 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2146
+#EXTINF:-1 tvg-id="" tvg-name="AL: Q Premium 5 HD" tvg-logo="https://tivivo.al/logokanale/qpremium5.png" group-title="Filma",AL: Q Premium 5 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2147
+#EXTINF:-1 tvg-id="" tvg-name="AL: Q Hindi 1 HD" tvg-logo="https://tivivo.al/logokanale/qhindi1.png" group-title="Filma",AL: Q Hindi 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2150
+#EXTINF:-1 tvg-id="" tvg-name="AL: Q Hindi 2 HD" tvg-logo="https://tivivo.al/logokanale/qhindi2.png" group-title="Filma",AL: Q Hindi 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2151
+#EXTINF:-1 tvg-id="" tvg-name="AL: Q Action HD" tvg-logo="https://tivivo.al/logokanale/qaction.png" group-title="Filma",AL: Q Action HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2152
+#EXTINF:-1 tvg-id="" tvg-name="Q Action HD AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Filma",Q Action 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12047
+#EXTINF:-1 tvg-id="" tvg-name="AL: Q Thriller HD" tvg-logo="https://tivivo.al/logokanale/qthriller.png" group-title="Filma",AL: Q Thriller HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2153
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Film HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png" group-title="Filma",AL: RTSH Film HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/28
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png" group-title="Filma",AL: Sky Aksion HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/135
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max HD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Humor.png" group-title="Filma",AL: Sky Max HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/138
+#EXTINF:-1 tvg-logo="http://logo.cdn-g.net/logo/FLAGS/flag_albania.png" group-title="Sport",---- SPORT PAKO ----
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/38200011
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://seeklogo.com/images/S/Sporttv-logo-C65D231D71-seeklogo.com.gif" group-title="Sport",Sport ahfol
+http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
+#EXTINF:-1 tvg-id="SuperSportNews.al" tvg-name="SuperSport News FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersportnewsal.jpg" group-title="Sport",SuperSport News FHD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22807
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Sport",SuperSport 1 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4198
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Sport",SuperSport 1 
+http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2 FHD AL
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22808
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2 HD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4199
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2 
+http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Sport",SuperSport 3 FHD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22809
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Sport",SuperSport 4 FHD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22810
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Sport",SuperSport 4 HD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4201
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Sport",SuperSport 5 FHD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22811
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Sport",SuperSport 5 HD
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9373
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport AL" tvg-logo="https://picon-13398.kxcdn.com/rtshsport.jpg" group-title="Sport",RTSH Sport HD
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/15635
+#EXTINF:-1 tvg-id="TringSportNews.al" tvg-name="Tring Sport News HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsportnewshd.jpg" group-title="Sport",Tring Sport News HD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/8077
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg" group-title="Sport",Tring Sport 1 HD
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/8078
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg" group-title="Sport",Tring Sport 1 
+http://95.107.132.106/out/u/683_2.m3u8
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport2hd.jpg" group-title="Sport",Tring Sport 2 HD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/8079
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg" group-title="Sport",Tring Sport 3 HD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/8080
+#EXTINF:-1 tvg-id="TringSport4.al" tvg-name="Tring Sport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport4hd.jpg" group-title="Sport",Tring Sport 4 HD
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/8081
+#EXTINF:-1 tvg-id="" tvg-name="K-Sport 1 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport1.jpg" group-title="Sport",K-Sport 1 HD
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9150
+#EXTINF:-1 tvg-id="" tvg-name="K-Sport 2 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport2.jpg" group-title="Sport",K-Sport 2 HD
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9151
+#EXTINF:-1 tvg-id="" tvg-name="K-Sport 3 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport3.jpg" group-title="Sport",K-Sport 3 HD
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9152
+#EXTINF:-1 tvg-id="" tvg-name="K-Sport 4 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport4.jpg" group-title="Sport",K-Sport 4 HD
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9153
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Art Sport 1 HD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28182
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Art Sport 2 HD
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28183
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Art Sport 3 HD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28184
+
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="https://i.postimg.cc/sXHB0hBv/arena1-logo.png" group-title="Sport",CRO: Arena Sport 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/492
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 2 HD" tvg-logo="https://i.postimg.cc/brGGXwbL/logo-arena2.png" group-title="Sport",CRO: Arena Sport 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/493
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 3 HD" tvg-logo="https://i.postimg.cc/J7gDNjVF/logo-arena3.png" group-title="Sport",CRO: Arena Sport 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/494
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 4 HD" tvg-logo="https://i.postimg.cc/PrwL2Nd5/logo-arena4.png" group-title="Sport",CRO: Arena Sport 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/495
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 5 HD" tvg-logo="https://i.postimg.cc/Fz2YhXVv/arena5-logo.png" group-title="Sport",CRO: Arena Sport 5 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/496
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 6 HD" tvg-logo="https://i.postimg.cc/QdndD38y/250x250-arena6.png" group-title="Sport",CRO: Arena Sport 6 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/497
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Sport Klub 1 HD" tvg-logo="https://i.postimg.cc/5NycVFXf/sport-klub.png" group-title="Sport",CRO: Sport Klub 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/499
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Sport Klub 2 HD" tvg-logo="https://i.postimg.cc/RVDkVVtK/sport-klub-2.png" group-title="Sport",CRO: Sport Klub 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/500
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Sport Klub 3 HD" tvg-logo="https://i.postimg.cc/Nj2Wyq8V/sport-klub-3.png" group-title="Sport",CRO: Sport Klub 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/501
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Sport Klub 4 HD" tvg-logo="https://i.postimg.cc/3wMzmSnw/sport-klub-4.png" group-title="Sport",CRO: Sport Klub 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/502
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 1 HD" tvg-logo="https://i.postimg.cc/sXHB0hBv/arena1-logo.png" group-title="Sport",SRB: Arena Sport 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/503
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 2 HD" tvg-logo="https://i.postimg.cc/brGGXwbL/logo-arena2.png" group-title="Sport",SRB: Arena Sport 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/504
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 3 HD" tvg-logo="https://i.postimg.cc/J7gDNjVF/logo-arena3.png" group-title="Sport",SRB: Arena Sport 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/505
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 4 HD" tvg-logo="https://i.postimg.cc/PrwL2Nd5/logo-arena4.png" group-title="Sport",SRB: Arena Sport 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/506
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 5 HD" tvg-logo="https://i.postimg.cc/Fz2YhXVv/arena5-logo.png" group-title="Sport",SRB: Arena Sport 5 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/507
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Sport Klub 1 HD" tvg-logo="https://i.postimg.cc/5NycVFXf/sport-klub.png" group-title="Sport",SRB: Sport Klub 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/508
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Sport Klub 2 HD" tvg-logo="https://i.postimg.cc/RVDkVVtK/sport-klub-2.png" group-title="Sport",SRB: Sport Klub 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/509
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Sport Klub 3 HD" tvg-logo="https://i.postimg.cc/Nj2Wyq8V/sport-klub-3.png" group-title="Sport",SRB: Sport Klub 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/510
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Sport Klub 4 HD" tvg-logo="https://i.postimg.cc/3wMzmSnw/sport-klub-4.png" group-title="Sport",SRB: Sport Klub 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/511
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Planet Sport 1 HD" tvg-logo="https://i.postimg.cc/RF134DbJ/650.png" group-title="Sport",CRO: Planet Sport 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1568
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Planet Sport 2 HD" tvg-logo="https://i.postimg.cc/KjZ1zDdq/651.png" group-title="Sport",CRO: Planet Sport 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1569
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Planet Sport 3 HD" tvg-logo="https://i.postimg.cc/BQzv93Qw/652.png" group-title="Sport",CRO: Planet Sport 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1570
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Planet Sport 4 HD" tvg-logo="https://i.postimg.cc/0jcbJJv8/653.png" group-title="Sport",CRO: Planet Sport 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1571
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Planet Sport 5 HD" tvg-logo="https://i.postimg.cc/nVksWND6/654.png" group-title="Sport",CRO: Planet Sport 5 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1572
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Nova Sport HD" tvg-logo="https://tivivo.al/logokanale/novasporthr.png" group-title="Sport",CRO: Nova Sport HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1110
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/dazn1.png" group-title="Sport",DE: Dazn Sport 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1405
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/dazn2.png" group-title="Sport",DE: Dazn Sport 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1406
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport News HD" tvg-logo="https://tivivo.al/logokanale/sportnewsde.png" group-title="Sport",DE: Sky Sport News HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/398
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/deskysport1.png" group-title="Sport",DE: Sky Sport 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/409
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 FHD" tvg-logo="https://tivivo.al/logokanale/deskysport2.png" group-title="Sport",DE: Sky Sport 2 FHD
+http://restream.tivivo.cc:25461/irfan/irfan1234/410
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 HD" tvg-logo="https://tivivo.al/logokanale/bein1ar.png" group-title="Sport",AR: beIN Sports 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/512
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 HD" tvg-logo="https://tivivo.al/logokanale/bein2ar.png" group-title="Sport",AR: beIN Sports 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/513
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 HD" tvg-logo="https://tivivo.al/logokanale/bein3ar.png" group-title="Sport",AR: beIN Sports 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/514
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 HD" tvg-logo="https://tivivo.al/logokanale/bein4ar.png" group-title="Sport",AR: beIN Sports 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/515
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 HD" tvg-logo="https://tivivo.al/logokanale/bein5ar.png" group-title="Sport",AR: beIN Sports 5 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/516
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 HD" tvg-logo="https://tivivo.al/logokanale/bein6ar.png" group-title="Sport",AR: beIN Sports 6 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/517
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 HD" tvg-logo="https://tivivo.al/logokanale/bein7ar.png" group-title="Sport",AR: beIN Sports 7 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/518
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 8 HD" tvg-logo="https://tivivo.al/logokanale/bein8ar.png" group-title="Sport",AR: beIN Sports 8 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/519
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 9 HD" tvg-logo="https://tivivo.al/logokanale/bein9ar.png" group-title="Sport",AR: beIN Sports 9 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/520
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 10 HD" tvg-logo="https://tivivo.al/logokanale/bein10ar.png" group-title="Sport",AR: beIN Sports 10 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/521
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena HD" tvg-logo="https://tivivo.al/logokanale/skyarena.png" group-title="Sport",UK: Sky Sports Arena HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1560
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football HD" tvg-logo="https://tivivo.al/logokanale/skyfootball.png" group-title="Sport",UK: Sky Sports Football HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1562
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="https://tivivo.al/logokanale/premierleague.png" group-title="Sport",UK: Sky Sports Premier League HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1567
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="https://tivivo.al/logokanale/Main-Event.png" group-title="Sport",UK: Sky Sports Main Event HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1563
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix HD" tvg-logo="https://tivivo.al/logokanale/skymix.png" group-title="Sport",UK: Sky Sports Mix HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1565
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://tivivo.al/logokanale/skygolf.png" group-title="Sport",UK: Sky Sports Golf HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1564
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://tivivo.al/logokanale/skyf1.png" group-title="Sport",UK: Sky Sports F1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1561
+#EXTINF:-1 tvg-id="" tvg-name="UK: Boxnation HD" tvg-logo="https://tivivo.al/logokanale/boxnation.png" group-title="Sport",UK: Boxnation HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1542
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 1 HD" tvg-logo="https://tivivo.al/logokanale/btsport1uk.png" group-title="Sport",UK: BT Sports 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1543
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 2 HD" tvg-logo="https://tivivo.al/logokanale/btsport2uk.png" group-title="Sport",UK: BT Sports 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1544
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 3 HD" tvg-logo="https://tivivo.al/logokanale/btsport3uk.png" group-title="Sport",UK: BT Sports 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1545
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports ESPN HD" tvg-logo="https://tivivo.al/logokanale/btsportespn.png" group-title="Sport",UK: BT Sports ESPN HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1546
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="https://tivivo.al/logokanale/ElevenSports3.png" group-title="Sport",PT: Eleven Sports 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1547
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News HD" tvg-logo="https://tivivo.al/logokanale/skynews.png" group-title="Sport",UK: Sky Sports News HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1566
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-1.png" group-title="Sport",UK: Eurosport 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1556
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-2.png" group-title="Sport",UK: Eurosport 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1557
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="https://tivivo.al/logokanale/ElevenSports_2.png" group-title="Sport",PT: Eleven Sports 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/1558
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Spor HD" tvg-logo="https://tivivo.al/logokanale/aspor.png" group-title="Sport",TR: A Spor HD.
+http://restream.tivivo.cc:25461/irfan/irfan1234/537
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport HD" tvg-logo="https://tivivo.al/logokanale/ssport1.png" group-title="Sport",TR: S Sport HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/533
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 1 HD" tvg-logo="https://tivivo.al/logokanale/bein1hd.png" group-title="Sport",TR: beIN Sports 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/523
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 2 HD" tvg-logo="https://tivivo.al/logokanale/bein2hd.png" group-title="Sport",TR: beIN Sports 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/524
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 3 HD" tvg-logo="https://tivivo.al/logokanale/bein3hd.png" group-title="Sport",TR: beIN Sports 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/525
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 4 HD" tvg-logo="https://tivivo.al/logokanale/bein4ar.png" group-title="Sport",TR: beIN Sports 4 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/526
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 HD" tvg-logo="https://i.postimg.cc/YCFMsZ4g/Digi-sport-1.png" group-title="Sport",RO: Digi Sport 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2088
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 HD" tvg-logo="https://i.postimg.cc/wvpXmCNk/digisport2.png" group-title="Sport",RO: Digi Sport 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2089
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 3 HD" tvg-logo="https://i.postimg.cc/GhHyHLNC/digisport3.png" group-title="Sport",RO: Digi Sport 3 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2090
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Fight Pass HD" tvg-logo="https://i.postimg.cc/52mYrXQ8/ufcfight.png" group-title="Sport",US: UFC Fight Pass HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/2054
+#EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/diemasport1.png" group-title="Sport",BG: Diema Sport 1 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/658
+#EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/diemasport2.png" group-title="Sport",BG: Diema Sport 2 HD
+http://restream.tivivo.cc:25461/irfan/irfan1234/659
+#EXTINF:-1,1 xx
+http://185.226.88.3:1036/live/backup/backup/7.m3u8
+#EXTINF:-1,2 xx
+http://185.226.88.3:1036/live/backup/backup/8.m3u8
+#EXTINF:-1,3 xx
+http://185.226.88.3:1036/live/backup/backup/9.m3u8
+#EXTINF:-1 group-title="ALB XXX 🔞" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",xxx 1
+https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+
+#EXTINF:-1,xxx 3
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+
+
+#EXTINF:-1,xxx extasy
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1,xxx superone
+http://185.96.176.139:8080/superone/index.m3u8
